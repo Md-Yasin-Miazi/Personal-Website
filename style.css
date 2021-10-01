@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+section {
+    height: 500px;
+    padding: 70px;
+}
+h2 {
+    font-size: 40px;
+    line-height: 0px;
+}
+h1 {
+    font-size: 60px;
+}
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 6%;
+}
+.crimson-highlight {
+    color: crimson;
+}
+.half-width img {
+    width: 100%;
+}
+.p { font-size: 17px;}
+.top-banner {
+    background-image: url("pictures/header-bg.png");
+    background-repeat: no-repeat;
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,crimson);
+    padding: 10px 20px;
+    border-radius: 3px;
+    color: white;
+    line-height: 115px;
+}
+.dream-area {
+    background-image: url("pictures/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.middle {text-align: center;}
+.latest-area img {
+    width: 30%;
+    margin: 20x;
+    padding-left: 35px;
+}
+.latest-area {
+    background-image: url("pictures/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.client { text-align: center;
+}
+.contuct-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,crimson);
+    padding: 55px 10px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    line-height: 180px;
+}
+footer p { text-align: center;}
